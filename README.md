@@ -7,7 +7,7 @@
 
   1. Open package manager
   2. Add package from git URL
-  3. Paste: https://github.com/anthonyraudino/SimpleMinMaxSlider2023#upm (remember the #upm at the end)
+  3. Paste: [https://github.com/anthonyraudino/SimpleMinMaxSlider2023.git#upm](https://github.com/anthonyraudino/SimpleMinMaxSlider2023.git#upm) (remember the #upm at the end)
   4. Let Unity do its thing
   5. Done.
 
