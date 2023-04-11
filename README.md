@@ -1,4 +1,5 @@
 # SimpleMinMaxSlider for Unity
+## Updated for 2023 to correctly compile builds.
 
 ![](Demonstration.gif)
 
@@ -6,7 +7,7 @@
 
   1. Open package manager
   2. Add package from git URL
-  3. Paste: https://github.com/GucioDevs/SimpleMinMaxSlider.git#upm (remember the #upm at the end)
+  3. Paste: https://github.com/anthonyraudino/SimpleMinMaxSlider2023#upm (remember the #upm at the end)
   4. Let Unity do its thing
   5. Done.
 
